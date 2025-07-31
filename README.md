@@ -14,8 +14,3 @@ If you **already have the ChurchApp installed**, you can update it directly from
 
 > **Important Note:** You may need to "Allow installs from unknown sources" in your phone's security settings to complete the installation. 
 
-## 🐛 Reporting Issues
-
-If you encounter any bugs or have suggestions, please let me know by creating an "Issue."
-
-*   **[Click here to report an issue](https://github.com/VictorLoucii/ChurchApp-Releases/issues)**
